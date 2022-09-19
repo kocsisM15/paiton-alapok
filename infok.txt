@@ -1,0 +1,4 @@
+from os import system
+system("cls")
+memóriakezelés, minden infó változókban eltárolva
+python - tipusfüggetlen => dinamikus meóriakezelés
